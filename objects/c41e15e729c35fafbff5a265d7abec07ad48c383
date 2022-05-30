@@ -1,0 +1,13 @@
+[module "e7e977e1-315b-3516-842e-054414adca1f"]
+	conflict = request-pull
+	path = frobnitz
+	pull = merge subtree
+	pull = squash always
+	ref = if refs/heads/master sync refs/heads/master
+	subtree = charts/frobnitz
+	url = agnostic://gh/497971897
+[map "64732c5c-da1a-3cd7-b2d8-20591644b4ec"]
+	object = adc21f20a366e59480cfad19306c31f77c608abd
+	path = frobnitz
+	stage = sync
+	type = extract module
