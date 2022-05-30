@@ -1,0 +1,8 @@
+[map "68d3cd4a-745c-36e5-9d56-f09627963d70"]
+	object = 98e604b95a313bf31761384328ed4eaa74550913
+	subtree = charts/frobnitz
+	type = expand tree
+[map "a7443f00-61bc-3043-b700-f125a4fc45ca"]
+	object = 15dd5169ecbb7bd6b294a830196c824faca4bb97
+	path = frobnitz
+	type = expand module
