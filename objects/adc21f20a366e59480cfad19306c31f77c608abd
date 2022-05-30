@@ -10,3 +10,7 @@
 	object = b3d0a23178a1bb7bb3ec43d15e9c1c6e3f63a0a8
 	path = frobnitz
 	type = expand module
+[map "89fb3a37-d80e-31f0-8592-e462f06fea14"]
+	object = cb4e258003a5b0dc8a926d0b709e6d3195da4460
+	path = frobnitz/charts
+	type = expand module
