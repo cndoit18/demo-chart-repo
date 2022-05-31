@@ -2,7 +2,7 @@
 	object = beae983371da6e458890c7aa9da548bdac5ebd39
 	subtree = charts/frobnitz
 	type = expand tree
-[map "0ebc3fd8-48a2-31c3-a1fc-90a13a8bc0db"]
-	object = b6b352842456d1a2567bb6578b68e5c1d99845c0
+[map "86e8abfa-d411-309e-9916-44acfe9c248f"]
+	object = 6533aa1b395dae593153bfd89d72a76bc662d87f
 	path = frobnitz/charts
 	type = expand module
