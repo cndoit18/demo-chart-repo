@@ -5,10 +5,6 @@ on:
         description: ""
         required: true
         type: string
-      version:
-        description: ""
-        required: true
-        type: string
 
 jobs:
   release:
@@ -27,5 +23,4 @@ jobs:
         env:
           CR_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
         with:
-          version: ${{ github.event.inputs.version }}
           charts_dir: ${{ github.event.inputs.component }}
