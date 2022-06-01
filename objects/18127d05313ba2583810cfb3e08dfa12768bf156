@@ -1,0 +1,4 @@
+[map "57448442-b303-38ac-a65d-366429275032"]
+	object = 033fa7c18a899655198f8da386ce150ba50617d7
+	subtree = charts/frobnitz
+	type = extract tree
